@@ -1,16 +1,45 @@
-### Hi there 👋
+# Deja Gianelli 💻
 
-<!--
-**DejaGianelli/DejaGianelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
+## Languages and Tools 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+    <tr>
+        <td>
+            <img src="assets/icons/java-icon.png" alt="isolated" width="50"/>
+        </td>
+        <td>
+            <img src="assets/icons/javascript-icon.png" alt="isolated" width="50"/>
+        </td>
+        <td>
+            <img src="assets/icons/php-icon.png" alt="isolated" width="50"/>
+        </td>
+        <td>
+            <img src="assets/icons/spring-icon.png" alt="isolated" width="50"/>
+        </td>
+        <td>
+            <img src="assets/icons/react-icon.png" alt="isolated" width="50"/>
+        </td>
+        <td>
+            <img src="assets/icons/git-icon.webp" alt="isolated" width="50"/>
+        </td>
+        <td>
+            <img src="assets/icons/html5-icon.png" alt="isolated" width="50"/>
+        </td>
+        <td>
+            <img src="assets/icons/css3-icon.ico" alt="isolated" width="50"/>
+        </td>
+        <td>
+            <img src="assets/icons/linux-icon.png" alt="isolated" width="50"/>
+        </td>
+        <td>
+            <img src="assets/icons/laravel-icon.png" alt="isolated" width="50"/>
+        </td>
+        <td>
+            <img src="assets/icons/postgres-icon.png" alt="isolated" width="50"/>
+        </td>
+    </tr>
+</table>
+
+
